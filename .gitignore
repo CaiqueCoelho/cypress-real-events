@@ -2,3 +2,4 @@ node_modules
 *.log
 dist/
 cypress/screenshots/
+package-lock.json
